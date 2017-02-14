@@ -1,0 +1,8 @@
+[2017-02-12 20:38:58] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_49a546b844b6205d21cb02881f60485ef and handles default, cms_index_index, cms_page_view, cms_index_index_id_home, customer_logged_out: Please correct the XML data and try again.  [] []
+[2017-02-12 20:38:58] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_40a98983867a1770682b48d9a0ad63441 and handles 1column: Please correct the XML data and try again.  [] []
+[2017-02-12 20:38:58] main.CRITICAL: Broken reference: the 'catalog.compare.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2017-02-12 20:38:58] main.CRITICAL: Broken reference: the 'sale.reorder.sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2017-02-12 20:38:58] main.CRITICAL: Broken reference: the 'wishlist_sidebar' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2017-02-12 20:38:58] main.CRITICAL: Broken reference: the 'paypal.partner.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2017-02-12 20:38:58] main.CRITICAL: Broken reference: the 'bml.right.logo' element cannot be added as child to 'sidebar.additional', because the latter doesn't exist [] []
+[2017-02-12 20:38:58] main.INFO: Cache file with merged layout: LAYOUT_frontend_STORE1_46f1b068ec7ccf4878f9284dd1137afd1 and handles catalog_product_prices: Please correct the XML data and try again.  [] []

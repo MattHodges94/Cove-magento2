@@ -1,0 +1,1 @@
+/home/matt/Sites/cove/vendor/magento/module-captcha/view/frontend/web/js/view/checkout/loginCaptcha.js

@@ -1,0 +1,30 @@
+<page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
+    <body>
+      <!--move search bar to header links and minicart to header wrapper  -->
+      <move element="top.search" destination="top.links" after="-"/>
+      <move element="minicart" destination="header-wrapper" after="-"/>
+      <referenceBlock name="wish-list-link" remove="true" />
+
+      <referenceBlock name="store.menu">
+        <block class="Magento\Framework\View\Element\Template" name="top.search.mobile" before="-" template="Magento_Search::form.mini.phtml"/>
+      </referenceBlock>
+
+      <referenceBlock name="copyright" remove="true"/>
+      <referenceBlock name="report.bugs" remove="true"/>
+
+      <referenceContainer name="footer">
+        <block class="Magento\Framework\View\Element\Template" name="social.links" before="-" template="Magento_Theme::default/social.phtml"/>
+      </referenceContainer>
+
+      <!-- mobile menu not working with extra block -->
+
+       <!-- <referenceBlock name="navigation.sections">
+
+      <block class="Magento\Framework\View\Element\Template" name="store.menu.large" group="navigation-sections" template="Magento_Theme::html/container.phtml" after="store.menu">
+          <block class="Magento\Theme\Block\Html\Topmenu" name="catalog.topnav.large" template="html/topmenu.phtml" ttl="3602" before="-"/>
+      </block>
+      </referenceBlock> -->
+
+
+    </body>
+</page>

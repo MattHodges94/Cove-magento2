@@ -1,0 +1,1 @@
+/home/matt/Sites/cove/app/code/WeltPixel/OwlCarouselSlider/view/frontend/web/js/owl.carousel.js
