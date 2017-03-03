@@ -1,6 +1,0 @@
-a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1486931939;s:6:"expire";i:1486935539;s:4:"tags";s:113:"4d9_BLOCK_HTML,4d9_CATALOG_CATEGORY,4d9_CATALOG_CATEGORY_3,4d9_CATALOG_CATEGORY_4,4d9_CATALOG_CATEGORY_5,4d9_MAGE";}
-
-<nav class="navigation" data-action="navigation">
-    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
-        <li  class="level0 nav-1 first level-top"><a href="http://cove.dev/men.html"  class="level-top" ><span>Men</span></a></li><li  class="level0 nav-2 level-top"><a href="http://cove.dev/women.html"  class="level-top" ><span>Women</span></a></li><li  class="level0 nav-3 last level-top"><a href="http://cove.dev/kids.html"  class="level-top" ><span>Kids</span></a></li>            </ul>
-</nav>
